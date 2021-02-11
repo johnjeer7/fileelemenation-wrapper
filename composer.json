@@ -1,0 +1,13 @@
+{
+    "name": "fileelemenation/wrapper",
+    "description": "easy log to system by route",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "john jeer",
+            "email": "johnjeer7@gmail.com"
+        }
+    ],
+    "require": {}
+}
