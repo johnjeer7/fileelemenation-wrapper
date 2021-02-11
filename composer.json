@@ -2,7 +2,7 @@
     "name": "fileelemenation/wrapper",
     "description": "easy log to system by route",
     "type": "library",
-    "license": "GPL",
+    "license": "MIT",
     "authors": [
         {
             "name": "john jeer",
